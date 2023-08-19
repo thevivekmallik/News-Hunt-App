@@ -11,10 +11,10 @@ The News Hunt Android App provides users with a convenient way to access top new
 ## Screenshots
 
 ![Screenshot 1](screenshot_1.png)
-*Description of screenshot 1.*
+
 
 ![Screenshot 2](screenshot_2.png)
-*Description of screenshot 2.*
+
 
 ## Installation
 
